@@ -23,8 +23,11 @@ Evaluation Metrics:
   R² Score
   
 The model was able to predict trends accurately, though exact prices were slightly smoothed due to normalization.
+
 MACD crossovers were helpful in marking potential buy/sell points.
+
 Bollinger Band squeezes indicated breakout periods with surprising accuracy.
+
 Validation R² Score: ~0.99 (indicating high correlation)
 
 The LSTM and XGboost turn out to be the closest enough to the actual prices trend, though the LSTM being the best.
