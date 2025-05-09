@@ -1,4 +1,4 @@
-# Stock-price-prediction-model
+# Future_ML_01
 
 Data Collection:
   Used yfinance to fetch AAPL stock data from 2012 to 2018.
